@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "118317519935",
+    "project_id": "flutter-firebase-x-algolia",
+    "storage_bucket": "flutter-firebase-x-algolia.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:118317519935:android:53c9c465d446f454e0948a",
+        "android_client_info": {
+          "package_name": "com.example.flutter_firebase_x_algolia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "118317519935-5mc30o9dc6q20selpoh8gr6a9essi41t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbE-ywq8DRLFH02GwqL3pK-B9sj1mZVtA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "118317519935-5mc30o9dc6q20selpoh8gr6a9essi41t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
